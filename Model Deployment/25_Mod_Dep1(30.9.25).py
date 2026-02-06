@@ -15,7 +15,7 @@ import pickle
 # In[2]:
 
 
-log_model=pickle.load(open('log30.pkl','rb'))
+log_model=pickle.load(open('Model Deployment/log30.pkl','rb'))
 
 
 # In[3]:
